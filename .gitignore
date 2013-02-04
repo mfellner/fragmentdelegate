@@ -6,3 +6,4 @@ gen/
 out/
 local.properties
 project.properties
+proguard-project.txt
