@@ -1,0 +1,9 @@
+.idea/
+*.iml
+ant.properties
+build.xml
+gen/
+out/
+project.properties
+res/
+src/
